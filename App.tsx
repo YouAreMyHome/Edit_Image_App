@@ -192,7 +192,7 @@ const App: React.FC = () => {
         <div className="inline-flex items-center justify-center p-3 bg-gray-900 rounded-full shadow-lg border border-gray-800 mb-4">
           <Sparkles className="w-6 h-6 text-purple-500 mr-2" />
           <h1 className="text-2xl md:text-3xl font-bold text-white tracking-tight">
-            Long Râu Digital Photo
+            NghiaLE Digital Photo
             <span className="text-purple-500 ml-2">AI Enhancer</span>
           </h1>
         </div>
